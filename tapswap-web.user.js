@@ -7,8 +7,8 @@
 // @match        *://*.tapswap.*/*
 // @grant        none
 // @icon         https://i.postimg.cc/7LJ24T7F/tapsw-aplogo.png
-// @downloadURL  https://github.com/aminiway/tapswaptask/new/main/tapswap-web.user.js
-// @updateURL    https://github.com/aminiway/tapswaptask/new/main/main/tapswap-web.user.js
+// @downloadURL  https://github.com/aminiway/tapswaptask/blob/main/tapswap-web.user.js
+// @updateURL    https://github.com/aminiway/tapswaptask/blob/main/tapswap-web.user.js
 // @homepage     https://github.com/aminiway/tapswaptask
 // ==/UserScript==
 (function() {
