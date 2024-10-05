@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         TapswapAutoTaskClaimerClaimer
-// @namespace    https://github.com/sizifart/
+// @namespace    https://github.com/aminiway/
 // @version      1.1
 // @description  Auto Claim Tasks TapSwapBot
 // @author       FoadDavoodi
 // @match        https://app.tapswap.club/*
 // @icon         https://i.postimg.cc/7LJ24T7F/tapsw-aplogo.png
 // @grant        GM_webRequest
-// @downloadURL  https://raw.githubusercontent.com/sizifart/TapswapAutoTaskClaimer/main/tapswapautotaskclaim.js
-// @updateURL    https://raw.githubusercontent.com/sizifart/TapswapAutoTaskClaimer/main/tapswapautotaskclaim.js
-// @homepage     https://github.com/sizifart/TapswapAutoTaskClaimer/
+// @downloadURL  https://github.com/aminiway/tapswaptask/new/main/tapswapautotaskclaim.js
+// @updateURL    https://github.com/aminiway/tapswaptask/new/main/tapswapautotaskclaim.js
+// @homepage     https://github.com/aminiway/tapswaptask
 // @require      https://code.jquery.com/jquery-3.7.1.min.js
 // ==/UserScript==
 (function () {
