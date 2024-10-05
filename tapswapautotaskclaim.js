@@ -8,7 +8,7 @@
 // @icon         https://i.postimg.cc/7LJ24T7F/tapsw-aplogo.png
 // @grant        GM_webRequest
 // @downloadURL  https://github.com/aminiway/tapswaptask/new/main/tapswapautotaskclaim.js
-// @updateURL    https://github.com/aminiway/tapswaptask/new/main/tapswapautotaskclaim.js
+// @updateURL    https://github.com/aminiway/tapswaptask/blob/maintapswapautotaskclaim.js
 // @homepage     https://github.com/aminiway/tapswaptask
 // @require      https://code.jquery.com/jquery-3.7.1.min.js
 // ==/UserScript==
@@ -74,7 +74,7 @@ console.error = console.warn = console.info = console.debug = () => { };
       soal = soal.replace("`", "");
       console.log("Shahan Question : ---" + soal + "---");
     fetch(
-  "https://github.com/aminiway/tapswaptask/new/main/list.json"
+  "https://raw.githubusercontent.com/aminiway/tapswaptask/refs/heads/main/list.json"
 ).then(function (response) {
   response.text().then(function (text) {
     storedText = text;
